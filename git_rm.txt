@@ -1,0 +1,2 @@
+git rm archivo: Borra el archivo tanto del area de trabajo como físicamente del sistema.
+git rm --cached archivo: Elimina el archivo del area de trabajo, pero lo mantiene físicamente en el sistema.
